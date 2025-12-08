@@ -1,0 +1,19 @@
+# Remote Sensing Course - Python Dependencies
+
+# Google Earth Engine
+earthengine-api>=0.1.350
+
+# Scientific Computing
+numpy>=1.21.0
+
+# Visualization
+matplotlib>=3.5.0
+
+# Image Processing
+Pillow>=9.0.0
+
+# Jupyter Notebook Support
+jupyter>=1.0.0
+ipykernel>=6.0.0
+ipywidgets>=7.6.0
+

@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Google Earth Engine
+*.json
+!**/data/*.json
+!**/homework_*/data/*.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output files (optional - uncomment if you don't want to track outputs)
+# output/
+# **/output/*.png
+# **/output/*.jpg
+
+# Temporary files
+*.tmp
+*.log
+
