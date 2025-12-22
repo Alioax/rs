@@ -40,6 +40,17 @@ Remote Sensing Course/
 │   ├── data/
 │   └── output/
 │
+├── experiments/                      # Side experiments & explorations
+│   ├── exp_lst_comparison/           # Example: Compare LST methods
+│   │   ├── exp_lst_comparison.ipynb
+│   │   ├── scripts/
+│   │   ├── data/
+│   │   └── output/
+│   ├── exp_ndvi_analysis/            # Example: NDVI exploration
+│   │   └── ...
+│   └── exp_sentinel2_lst/            # Example: Sentinel-2 LST test
+│       └── ...
+│
 └── utils/                            # Shared utilities (optional)
     ├── gee_helpers.py                # Common GEE functions
     └── visualization.py              # Common plotting functions
@@ -52,6 +63,8 @@ Remote Sensing Course/
 3. **Organized Outputs**: Each homework's outputs stay with its code
 4. **Flexible**: Can include supporting scripts alongside notebooks
 5. **Professional**: Clean structure suitable for portfolio/GitHub
+6. **Experiments**: Side projects are clearly separated from official homework
+7. **Exploratory**: Safe space for testing ideas without mixing with assignments
 
 ## Alternative: Simpler Structure
 

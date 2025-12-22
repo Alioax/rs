@@ -6,13 +6,25 @@ This repository contains code and analysis for the Remote Sensing course (Fall 2
 
 ## Repository Structure
 
-Each homework assignment is organized in its own folder:
+The repository is organized into official homework assignments and side experiments:
 
 ```
-├── homework_03/          # Land Surface Temperature (LST) Analysis
+├── homework_03/          # Official homework assignments
 ├── homework_04/          # Future assignments...
+├── experiments/          # Side experiments & explorations
+│   └── exp_*/            # Individual experiments
 └── utils/                # Shared utilities (if any)
 ```
+
+### Official Homework (`homework_XX/`)
+Structured assignments for the course. Each includes:
+- Main analysis notebook
+- Supporting scripts
+- Data files
+- Output visualizations
+
+### Side Experiments (`experiments/exp_*/`)
+Personal explorations, method comparisons, and experimental code related to remote sensing but outside official homework scope.
 
 ## Homework 3: Land Surface Temperature (LST) Analysis
 

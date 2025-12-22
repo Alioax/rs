@@ -1,0 +1,3 @@
+# This file ensures the experiments folder is tracked by Git
+# Even when empty, the folder structure is preserved
+

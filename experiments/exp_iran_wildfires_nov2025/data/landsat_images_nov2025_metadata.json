@@ -1,0 +1,105 @@
+{
+  "path_row_combinations": [
+    [
+      164,
+      35
+    ],
+    [
+      165,
+      35
+    ]
+  ],
+  "start_date": "2025-11-01",
+  "end_date": "2025-11-30",
+  "total_images": 8,
+  "images": [
+    {
+      "scene_id": "LC81640352025308LGN00",
+      "date_acquired": "2025-11-04",
+      "cloud_cover": 12.63,
+      "satellite": "Landsat 8",
+      "path": 164,
+      "row": 35,
+      "rgb_filename": "RGB_Landsat_8_P164R35_LC81640352025308LGN00.png",
+      "fire_filename": "FireDetection_Landsat_8_P164R35_LC81640352025308LGN00.png",
+      "status": "success"
+    },
+    {
+      "scene_id": "LC81640352025324LGN00",
+      "date_acquired": "2025-11-20",
+      "cloud_cover": 1.18,
+      "satellite": "Landsat 8",
+      "path": 164,
+      "row": 35,
+      "rgb_filename": "RGB_Landsat_8_P164R35_LC81640352025324LGN00.png",
+      "fire_filename": "FireDetection_Landsat_8_P164R35_LC81640352025324LGN00.png",
+      "status": "success"
+    },
+    {
+      "scene_id": "LC91640352025316LGN00",
+      "date_acquired": "2025-11-12",
+      "cloud_cover": 16.26,
+      "satellite": "Landsat 9",
+      "path": 164,
+      "row": 35,
+      "rgb_filename": "RGB_Landsat_9_P164R35_LC91640352025316LGN00.png",
+      "fire_filename": "FireDetection_Landsat_9_P164R35_LC91640352025316LGN00.png",
+      "status": "success"
+    },
+    {
+      "scene_id": "LC91640352025332LGN00",
+      "date_acquired": "2025-11-28",
+      "cloud_cover": 3.79,
+      "satellite": "Landsat 9",
+      "path": 164,
+      "row": 35,
+      "rgb_filename": "RGB_Landsat_9_P164R35_LC91640352025332LGN00.png",
+      "fire_filename": "FireDetection_Landsat_9_P164R35_LC91640352025332LGN00.png",
+      "status": "success"
+    },
+    {
+      "scene_id": "LC81650352025315LGN00",
+      "date_acquired": "2025-11-11",
+      "cloud_cover": 0.16,
+      "satellite": "Landsat 8",
+      "path": 165,
+      "row": 35,
+      "rgb_filename": "RGB_Landsat_8_P165R35_LC81650352025315LGN00.png",
+      "fire_filename": "FireDetection_Landsat_8_P165R35_LC81650352025315LGN00.png",
+      "status": "success"
+    },
+    {
+      "scene_id": "LC81650352025331LGN00",
+      "date_acquired": "2025-11-27",
+      "cloud_cover": 22.46,
+      "satellite": "Landsat 8",
+      "path": 165,
+      "row": 35,
+      "rgb_filename": "RGB_Landsat_8_P165R35_LC81650352025331LGN00.png",
+      "fire_filename": "FireDetection_Landsat_8_P165R35_LC81650352025331LGN00.png",
+      "status": "success"
+    },
+    {
+      "scene_id": "LC91650352025307LGN00",
+      "date_acquired": "2025-11-03",
+      "cloud_cover": 20.95,
+      "satellite": "Landsat 9",
+      "path": 165,
+      "row": 35,
+      "rgb_filename": "RGB_Landsat_9_P165R35_LC91650352025307LGN00.png",
+      "fire_filename": "FireDetection_Landsat_9_P165R35_LC91650352025307LGN00.png",
+      "status": "success"
+    },
+    {
+      "scene_id": "LC91650352025323LGN00",
+      "date_acquired": "2025-11-19",
+      "cloud_cover": 1.3,
+      "satellite": "Landsat 9",
+      "path": 165,
+      "row": 35,
+      "rgb_filename": "RGB_Landsat_9_P165R35_LC91650352025323LGN00.png",
+      "fire_filename": "FireDetection_Landsat_9_P165R35_LC91650352025323LGN00.png",
+      "status": "success"
+    }
+  ]
+}
