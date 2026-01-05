@@ -1,0 +1,74 @@
+{
+  "search_parameters": {
+    "path": 166,
+    "row": 34,
+    "months": [
+      7,
+      8
+    ],
+    "month_names": [
+      "July",
+      "August"
+    ],
+    "collections": [
+      "LANDSAT/LT05/C02/T1_L2",
+      "LANDSAT/LC08/C02/T1_L2",
+      "LANDSAT/LC09/C02/T1_L2"
+    ],
+    "processing_level": "Level 2 (Surface Reflectance)"
+  },
+  "selection_criteria": {
+    "max_cloud_cover": 20,
+    "max_cloud_shadow": 10,
+    "max_snow_cover": 5,
+    "min_year_separation": 1,
+    "allowed_satellites": [
+      "Landsat 8 OLI",
+      "Landsat 9 OLI-2"
+    ]
+  },
+  "selection_statistics": {
+    "total_scenes": 139,
+    "quality_filtered_scenes": 34,
+    "pairs_considered": 515
+  },
+  "selected_pair": {
+    "image_1": {
+      "scene_id": "LC81660342021231LGN00",
+      "satellite": "Landsat 8 OLI",
+      "date_acquired": "2021-08-19",
+      "day_of_year": 231,
+      "year": 2021,
+      "month": 8,
+      "day": 19,
+      "cloud_cover": 0.03,
+      "cloud_cover_land": 0.02,
+      "cloud_shadow": null,
+      "snow_cover": null,
+      "image_quality": 9,
+      "system_id": "N/A",
+      "collection_id": "LANDSAT/LC08/C02/T1_L2"
+    },
+    "image_2": {
+      "scene_id": "LC81660342015231LGN01",
+      "satellite": "Landsat 8 OLI",
+      "date_acquired": "2015-08-19",
+      "day_of_year": 231,
+      "year": 2015,
+      "month": 8,
+      "day": 19,
+      "cloud_cover": 0.66,
+      "cloud_cover_land": 0.03,
+      "cloud_shadow": null,
+      "snow_cover": null,
+      "image_quality": 9,
+      "system_id": "N/A",
+      "collection_id": "LANDSAT/LC08/C02/T1_L2"
+    },
+    "day_of_year_difference": 0,
+    "year_separation": 6,
+    "combined_cloud_cover": 0.6900000000000001,
+    "selection_score": 0.6900000000000001
+  },
+  "selection_date": "2026-01-04 20:16:09"
+}

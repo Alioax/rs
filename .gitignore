@@ -38,3 +38,14 @@ Thumbs.db
 *.tmp
 *.log
 
+# Large image data files (>50MB)
+# Note: Git doesn't support size-based filtering directly, so we exclude all .tif files in data directories
+# Large GeoTIFF files (raw image data) - exclude all .tif files in data directories
+**/data/**/*.tif
+**/data/**/*.TIF
+# Allow small metadata files (world files)
+!**/data/**/*.tfw
+!**/data/**/*.TFW
+# Allow small point files
+!**/data/**/*.pts
+
