@@ -41,3 +41,4 @@ To obtain these files:
 4. Run `scripts/calculate_mean_reflectance.py` to calculate mean reflectance
 5. Run `scripts/calculate_reflectance_difference.py` to compute difference image
 
+

@@ -16,6 +16,7 @@ The repository is organized into official homework assignments and side experime
 ├── homework_05/          # Geometric correction and resampling
 ├── homework_06/          # Scene search and image registration
 ├── homework_07/          # Change detection and diffusion comparison
+├── homework_08/          # Unsupervised and supervised classification
 ├── experiments/          # Side experiments & explorations
 │   └── exp_*/            # Individual experiments
 └── utils/                # Shared utilities (if any)
@@ -100,6 +101,15 @@ Personal explorations, method comparisons, and experimental code related to remo
   - Pixel-wise difference analysis
   - Diffusion comparison (30m vs 15m resolution)
   - AOI-based visualization
+
+### Homework 8: Unsupervised and Supervised Classification
+**Objective**: Apply unsupervised and supervised classification techniques to remote sensing imagery for land cover mapping.
+
+- **Key Features**:
+  - Unsupervised classification methods
+  - Supervised classification techniques
+  - Land cover classification and mapping
+- **Status**: This homework was completed during the [2026 Internet blackout in Iran](https://en.wikipedia.org/wiki/2026_Internet_blackout_in_Iran) and [2026 Iran massacres](https://en.wikipedia.org/wiki/2026_Iran_massacres). Due to these circumstances, no code is available for this assignment.
 
 ## Setup
 
@@ -189,7 +199,10 @@ python visualize_aoi_comparison.py           # Change detection viz
 python visualize_diffusion_comparison.py     # Diffusion comparison
 ```
 
-**Note**: See individual homework README files for detailed usage instructions and configuration options.
+### Homework 8: Unsupervised and Supervised Classification
+**Note**: No code is available for this homework. See [homework_08/README.md](homework_08/README.md) for details.
+
+> **Note**: See individual homework README files for detailed usage instructions and configuration options.
 
 ## Requirements
 
@@ -210,3 +223,6 @@ All generated visualizations and analysis outputs are saved in each homework's `
 
 Academic use - Course assignment repository
 
+## Course Completion
+
+This repository documents the complete set of assignments for the Remote Sensing course (Fall 2025), covering fundamental topics from data acquisition and preprocessing to advanced analysis techniques including temperature analysis, change detection, and classification methods.

@@ -12,3 +12,4 @@ Place your SLC error correction images here:
 
 These files are excluded from git due to their large size (>50MB). Please place your SLC correction images here before running the comparison scripts.
 
+

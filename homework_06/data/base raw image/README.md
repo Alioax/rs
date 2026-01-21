@@ -12,3 +12,4 @@ Place your base raw image file here:
 
 This file is excluded from git due to its large size (>50MB). Please place your base raw image file here before running the registration scripts.
 
+
